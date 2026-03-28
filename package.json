@@ -1,0 +1,31 @@
+{
+  "name": "@bddjr/rimraf",
+  "version": "0.1.0",
+  "author": "bddjr",
+  "description": "rimraf command, but without any third-party dependencies.",
+  "license": "Unlicense",
+  "bin": {
+    "rimraf": "./bin.mjs"
+  },
+  "files": [
+    "bin.mjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bddjr/rimraf.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "keywords": [
+    "rm",
+    "rm -rf",
+    "rm -fr",
+    "remove",
+    "directory",
+    "cli",
+    "rmdir",
+    "recursive"
+  ]
+}
