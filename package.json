@@ -1,6 +1,6 @@
 {
   "name": "@bddjr/rimraf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "bddjr",
   "description": "rimraf command, but without any third-party dependencies.",
   "license": "Unlicense",
